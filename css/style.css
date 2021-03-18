@@ -1,0 +1,15 @@
+.body{
+    text-align: center;
+    background-image: url(../img/background.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    height: 600px;
+}
+span{
+    padding-left: 25px;
+    padding-right: 25px;
+}
+.span1:hover {
+    flex-direction:row-reverse ;
+    cursor:pointer;
+}
